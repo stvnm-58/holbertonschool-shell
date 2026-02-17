@@ -1,2 +1,2 @@
-#!/bas/bin
+#!/bash/bin
 chmomd u+x hello
