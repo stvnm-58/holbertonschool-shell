@@ -1,2 +1,2 @@
 #!/bash/bin
-chmomd u+x hello
+chmomd u+x .hello
