@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/pass | grep -A root
+cat /etc/pass | grep -A "root"
